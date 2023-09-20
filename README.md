@@ -8,8 +8,8 @@
   <td>Significado</td>
 </tr>
 <tr>
-  <td></td>
-  <td></td>
+  <td> </td>
+  <td> </td>
 </tr>
   <tr>
   <td>tempo(número qualquer)c</td>
