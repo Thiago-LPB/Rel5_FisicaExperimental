@@ -36,10 +36,6 @@
   <td>tempoD_Médio</td>
   <td>Tempo médio dos processos de descarga</td>
 </tr>
-   <tr>
-  <td>tempoC_Médio</td>
-  <td>Tempo médio dos processos de carga</td>
-</tr>
   <tr>
   <td>Carga_Média</td>
   <td>Valor da tensão média durante os processo de carga</td>
