@@ -2,9 +2,14 @@
 
 <h3>O arquivo .csv será usado pelo o código e o arquivo "dataSet" é apenas para visualização</h3>
 <table>
+
 <tr>
   <td>Nome da coluna</td>
   <td>Significado</td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
 </tr>
   <tr>
   <td>tempo(número qualquer)c</td>
