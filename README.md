@@ -8,7 +8,6 @@
   <td>Significado</td>
 </tr>
 <tr>
-  <td><hr></td>
 </tr>
   <tr>
   <td>tempo(número qualquer)c</td>
