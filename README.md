@@ -7,7 +7,8 @@
   <td>Nome da coluna</td>
   <td>Significado</td>
 </tr>
-<hr>
+ <td><br></td>
+  <td><br></td>
 <tr>
 </tr>
   <tr>
