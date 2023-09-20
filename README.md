@@ -15,6 +15,11 @@
   <td>tempo(número qualquer)c</td>
   <td>Tempo de carregamento individual</td>
 </tr>
+</tr>
+  <tr>
+  <td>tempo(número qualquer)d</td>
+  <td>Tempo de descarga individual</td>
+</tr>
   <tr>
   <td>carga(número qualquer)</td>
   <td>Valor da tensão durante um único processo de carga</td>
